@@ -8,3 +8,5 @@ class LivroSerializer(ModelSerializer):
         model = Livro
         fields = "__all__"
         # depth = 1
+
+        
